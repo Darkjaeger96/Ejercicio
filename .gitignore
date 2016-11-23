@@ -1,0 +1,9 @@
+#Ignoramos los .class
+*.class
+
+#Ignoramos los ficheros de copia de seguridad
+
+*.~
+
+#Ignoramos la carpeta de documentación
+/doc
