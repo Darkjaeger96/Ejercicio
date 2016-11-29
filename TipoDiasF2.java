@@ -1,4 +1,9 @@
 import java.util.Scanner;
+/**Clase que leido un dia de la semana
+* nos dice si es laborable o no
+* @author Jesus
+* @version 1.0
+*/
 public class TipoDiasF2 {
 		public static void main(String[] args){
 		System.out.println("Introduce un dia de la semana: ");
