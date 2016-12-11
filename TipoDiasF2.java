@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**Clase que leido un dia de la semana
 * nos dice si es laborable o no
 * @author Jesus
-* @version 2.0 NUEVA PARA PRUEVA
+* @version 2.0 NUEVA PARA PRUEBA
 */
 public class TipoDiasF2 {
 		public static void main(String[] args){
